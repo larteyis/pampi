@@ -1129,7 +1129,7 @@ lsmeans RG*ST/ lines;
 RUN;
 
 
-
+Hello
 
 /*COMPARING ACROSS EXPERIMENTS AND EMBRYO STAGE FOR SOIL*/
 proc glm data =All_3_Expt_Inoculum plots=residualpanel; where ST=XX;/*ST=XX, where XX is 1 OR 2 muck and mineral respectively*/
